@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6C827D29-DFF0-4A62-BF43-8D42607B2DC0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>generic Linear Search</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>38F2E9782DAB85584493FCA081E186F152185A84</key>
+		<string>https://github.com/shankuljain/generic-Linear-Search.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>generic Linear Search.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>38F2E9782DAB85584493FCA081E186F152185A84</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shankuljain/generic-Linear-Search.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>38F2E9782DAB85584493FCA081E186F152185A84</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>38F2E9782DAB85584493FCA081E186F152185A84</string>
+			<key>IDESourceControlWCCName</key>
+			<string>generic%20Linear%20Search</string>
+		</dict>
+	</array>
+</dict>
+</plist>
